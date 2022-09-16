@@ -1,0 +1,25 @@
+[
+  {
+    "id": 0,
+    "MinTemp": 0.153846154,
+    "MaxTemp": 0.029411765,
+    "Rainfall": 1,
+    "Evaporation": 0,
+    "Sunshine": 0,
+    "WindGustDir": 0.444444444,
+    "WindGustSpeed": 0.333333333,
+    "WindDir9am": 0.75,
+    "WindDir3pm": 0.75,
+    "WindSpeed9am": 0.583333333,
+    "WindSpeed3pm": 0.454545455,
+    "Humidity9am": 0.038461538,
+    "Humidity3pm": -1.071428571,
+    "Pressure9am": -1.192771084,
+    "Pressure3pm": -0.975903614,
+    "Cloud9am": 1,
+    "Cloud3pm": 0,
+    "Temp9am": 0.02173913,
+    "Temp3pm": 0.073684211,
+    "rain": 0
+  }
+]
